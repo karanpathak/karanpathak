@@ -4,6 +4,7 @@
     </a>
 </div>
 <br/>
+
 - 🎓 I’m currently pursuing **Masters in Professional Computer Science** from Simon 
 Fraser University.
 - 🔭 Interested in software engineering, system design, distributed systems, machine learning, computer vision, time-series analysis and data analysis.

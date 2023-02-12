@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/karanpathak" target="_blank">
-        <img src="Github_profile_readme.png" style="width: 100%" alt="Hello World, I'm Karan Pathak"/>
+        <img src="imgs/Github_profile_readme.png" style="width: 100%" alt="Hello World, I'm Karan Pathak"/>
     </a>
 </div>
 <br/>
